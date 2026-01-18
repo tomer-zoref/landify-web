@@ -83,7 +83,7 @@ export default function Home() {
           <div>
             <div className="inline-flex items-center gap-2 rounded-full border border-black/10 bg-white/35 px-3 py-1 text-xs">
               <span className="h-2 w-2 rounded-full bg-[var(--sage)]" />
-              Your End-To-End Land Search & Acquisition
+              Your AI Broker for Land Search & Acquisition
             </div>
 
             <h1 className="mt-5 text-4xl font-semibold tracking-tight md:text-5xl">
