@@ -87,7 +87,7 @@ export default function Home() {
             </div>
 
             <h1 className="mt-5 text-4xl font-semibold tracking-tight md:text-5xl">
-              Find land deals faster — with data, not guesswork.
+              Finding land deals faster — with data, not guesswork.
             </h1>
 
             <p className="mt-4 max-w-xl text-base leading-relaxed text-[color:rgba(89,108,104,0.85)]">
